@@ -1,25 +1,16 @@
-<div align="center">
-GAME DESIGN
+NetRadiant-custom manual
 =
-</div>
 
-## <div align="left">Main
-</div>
+## Main
 
-### 
-:w
-Testing
-><span style="color:grey; font=family:Papyrus; font-size:1.0em">Stuff  
+### Testing
+>Stuff  
 Stuff More  
-Stuff More More  </span>
+Stuff More More
 
 Things
 
 ### **STUFF**  
-
-<!--<div align="left"><img src="/home/lee/game/docs/pics/Vodicka_triquetra1.png" alt="celtic knot" width="200"></div>-->
-
->NetRadiant-custom manual
 
 * test1
 * test2
