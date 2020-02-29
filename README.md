@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## NetRadiant-custom manual test
 
 You can use the [editor on GitHub](https://github.com/wongit/wongit.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
